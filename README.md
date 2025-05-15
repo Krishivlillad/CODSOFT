@@ -1,2 +1,7 @@
 # CODSOFT
-UI/UX Design Projects for the CODSOFT Internship. Includes designs for a mobile app sign-up flow, restaurant menu UI, and email template. Created using Figma.
+This repository contains my UI/UX internship projects for CodSoft. It includes the designs for:
+- Mobile App Signup Flow  
+- Restaurant Menu Interface  
+- E-commerce Website UI  
+
+All projects are designed using Figma and demonstrate user-friendly, responsive, and visually appealing interfaces.
